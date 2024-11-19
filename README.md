@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hey there! 👋 I'm Ujjwal Maletha, a passionate Java Spring Boot Developer hailing from the vibrant land of India. 🌏✨</h2>
+<h1 align="left">Hey there! 👋 I'm Ujjwal Maletha, a passionate Java Spring Boot Developer hailing from the vibrant land of India. 🌏✨</h1>
 
 ###
 
